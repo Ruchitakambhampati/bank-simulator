@@ -1,0 +1,12 @@
+[2025-08-19 12:59:38] INFO  App:30 - Bank Simulator started
+[2025-08-19 12:59:38] INFO  App:12 - Bank account created with initial balance: 500.0
+[2025-08-19 12:59:38] INFO  App:17 - Deposited 200.0 | New balance: 700.0
+[2025-08-19 12:59:38] WARN  App:25 - Withdrew 100.0 | Remaining balance: 600.0
+[2025-08-19 12:59:38] ERROR App:22 - Withdrawal of 700.0 failed | Balance: 600.0
+[2025-08-19 12:59:38] INFO  App:37 - Bank Simulator finished
+[2025-08-20 19:57:32] INFO  App:30 - Bank Simulator started
+[2025-08-20 19:57:32] INFO  App:12 - Bank account created with initial balance: 500.0
+[2025-08-20 19:57:32] INFO  App:17 - Deposited 200.0 | New balance: 700.0
+[2025-08-20 19:57:32] WARN  App:25 - Withdrew 100.0 | Remaining balance: 600.0
+[2025-08-20 19:57:32] ERROR App:22 - Withdrawal of 700.0 failed | Balance: 600.0
+[2025-08-20 19:57:32] INFO  App:37 - Bank Simulator finished
